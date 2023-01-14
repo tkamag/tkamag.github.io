@@ -2,26 +2,26 @@
   "basics": {
     "name": "Zhenye (Nathan) Na",
     "label": "Software Engineer",
-    "picture": "https://avatars.githubusercontent.com/u/32248549?v=4",
-    "website": "https://zhenye-na.github.io",
-    "summary": "I am currently a Software Development Engineer at Amazon Web Services (AWS), working on very exciting projects. Happy to refer!",
+    "picture": "https://avatars.githubusercontent.com/u/14333637?v=4",
+    "website": "https://tkamag.github.io",
+    "summary": "I am currently a Senior Data Consultant in a professionnal service who works with builders, technology leaders and enterprise executives to help them transform their businesses.!",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "San Jose",
-      "countryCode": "",
-      "region": "CA"
+      "city": "Paris",
+      "countryCode": "France",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "zhenye-na",
-        "url": "http://github.com/zhenye-na"
+        "username": "tkamag",
+        "url": "http://github.com/tkamag"
       },
       {
         "network": "linkedin",
-        "username": "zhenyena",
-        "url": "https://www.linkedin.com/in/zhenyena/"
+        "username": "tkamag",
+        "url": "https://www.linkedin.com/fr/tkamag/"
       }
     ]
   },
@@ -47,26 +47,19 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "Java",
-        "Typescript/Javascript",
         "Python",
-        "Golang",
         "Shell scripting",
         "HTML",
-        "CSS"
+        "CSS",
+        "SAS"
       ]
     },
     {
       "name": "Frameworks",
       "level":"",
       "keywords": [
-        "Spring",
         "TensorFlow",
-        "PyTorch",
-        "Symfony",
-        "Django",
-        "React",
-        "Angular"
+        "PyTorch"
       ]
     },
     {
@@ -75,39 +68,37 @@
       "keywords": [
         "AWS",
         "Docker",
-        "Kubernetes",
-        "Helm",
-        "Grafana"
+        "Kubernetes"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Illinois at Urbana - Champaign",
-      "area": "Master of Science, Industrial Engineering in Advanced Analytics",
-      "endDate": "May 2019"
+      "institution": "",
+      "area": "",
+      "endDate": ""
     },
     {
-      "institution": "Dalian University of Technology",
-      "area": "Bachelor of Engineering, Harbor, Waterway and Coastal Engineering",
-      "endDate": "July 2017"
+      "institution": "",
+      "area": "",
+      "endDate": ""
     }
   ],
   "work": [
     {
-      "company": "Amazon Web Services (AWS)",
-      "position": "Software Development Engineer",
-      "startDate": "July 2021",
-      "endDate": "Present",
+      "company": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
       ]
     },
     {
-      "company": "CrowdCirlce Inc. dba HealthCrowd",
-      "position": "Data Engineer",
-      "startDate": "Mar. 2020",
-      "endDate": "Jun. 2021",
+      "company": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
       ]
