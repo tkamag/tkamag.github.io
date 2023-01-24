@@ -27,7 +27,13 @@
         "network": "twitter",
         "username": "tkamag",
         "url": "https://twitter.com/tkamag"
+      },
+      {
+        "network": "medium",
+        "username": "tkamag",
+        "url": "https://medium.com/tkamag"
       }
+      
     ]
   },
   "interests": [
